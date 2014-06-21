@@ -1,4 +1,4 @@
-body { 
+body {
 	margin :0px;
 	padding: 0px;
 	font-family: 'Roboto', sans-serif;
@@ -20,7 +20,7 @@ header{
 	color: #ffffff;
 }
 
-header h1 { 
+header h1 {
 	font-family: 'Oleo Script', cursive;
 	font-size: 75px;
 	margin: 0;
@@ -49,7 +49,7 @@ header h1 {
 	background: -moz-linear-gradient(top,  #f5f6f7 0%, #d3d3d5 99%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5f6f7), color-stop(99%,#d3d3d5)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top,  #f5f6f7 0%,#d3d3d5 99%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #f5f6f7 0%,#d3d3d5 99%); /* Opera 11.10+ */	
+	background: -o-linear-gradient(top,  #f5f6f7 0%,#d3d3d5 99%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top,  #f5f6f7 0%,#d3d3d5 99%); /* IE10+ */
 	background: linear-gradient(to bottom,  #f5f6f7 0%,#d3d3d5 99%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f7', endColorstr='#d3d3d5',GradientType=0 ); /* IE6-9 */
@@ -88,7 +88,7 @@ nav ul li {
 	list-style: none;
 	text-align: right;
 	font-size: 25px;
-	opacity: 0.5;	
+	opacity: 0.5;
 	background: #3a3938;
 	line-height: 2;
 }
@@ -102,7 +102,7 @@ nav ul li a {
 	display: block;
 }
 
-nav ul li a:link, nav ul li a:visited {	
+nav ul li a:link, nav ul li a:visited {
 	width: 250px;
 	height: 50px;
 	font-weight: normal;
@@ -144,7 +144,6 @@ h3 {
 	background: url("images/play_icon.png") no-repeat;
 	background-position: 0 5px;
 	position: relative;
-	padding-left: 20px;
 }
 
 .right {
@@ -272,4 +271,9 @@ footer a:hover {
 
 .blog_post:last-child {
 	border-bottom: 0;
+}
+
+/* styles for smaller screens */
+@media only screen and (max-width: 768px) {
+
 }
