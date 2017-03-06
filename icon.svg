@@ -1,156 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4344"
-   viewBox="0 0 25.4 25.4"
-   height="25.4mm"
-   width="25.4mm"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="spinner.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview13"
-     showgrid="true"
-     inkscape:zoom="4.7812501"
-     inkscape:cx="20.308496"
-     inkscape:cy="31.895426"
-     inkscape:current-layer="svg4344"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4249" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4346" />
-  <metadata
-     id="metadata4349">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="circle">
-    <path
-       d="M 8.7366222,2.8886825 A 10.58137,10.60227 0 0 1 22.511053,8.7465202 10.58137,10.60227 0 0 1 16.665793,22.548595 10.58137,10.60227 0 0 1 2.8904877,16.692822 10.58137,10.60227 0 0 1 8.733688,2.8898708"
-       sodipodi:open="true"
-       sodipodi:end="4.3281174"
-       sodipodi:start="4.3284165"
-       sodipodi:ry="10.60227"
-       sodipodi:rx="10.58137"
-       sodipodi:cy="12.718936"
-       sodipodi:cx="12.700474"
-       sodipodi:type="arc"
-       id="path4195"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ea5420;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-  </g>
-  <g
-     id="g7"
-     style="stroke:#ffffff;stroke-width:1.05833333;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="ellipse01"
-       sodipodi:type="arc"
-       sodipodi:cx="12.700474"
-       sodipodi:cy="12.718936"
-       sodipodi:rx="10.58137"
-       sodipodi:ry="10.60227"
-       sodipodi:start="6.1784656"
-       sodipodi:end="0.10471976"
-       sodipodi:open="true"
-       d="m 23.223878,11.610697 a 10.58137,10.60227 0 0 1 0,2.216478" />
-    <animateTransform
-       attributeType="xml"
-       attributeName="transform"
-       type="rotate"
-       dur="1.2"
-       values="0 12.700474 12.718936; 180 12.700474 12.718936; 180 12.700474 12.718936; 360 12.700474 12.718936; 360 12.700474 12.718936"
-       keySplines="0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9"
-       keyTimes="0.0;0.5;0.5;1.0;1.0"
-       calcMode="spline"
-       repeatCount="indefinite" />
-  </g>
-  <g
-     id="g10"
-     style="stroke:#ffffff;stroke-width:1.05833333;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       id="ellipse02"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       sodipodi:type="arc"
-       sodipodi:cx="12.700474"
-       sodipodi:cy="12.718936"
-       sodipodi:rx="10.58137"
-       sodipodi:ry="10.60227"
-       sodipodi:start="1.9547688"
-       sodipodi:end="2.1642083"
-       sodipodi:open="true"
-       d="M 8.7366223,22.549189 A 10.58137,10.60227 0 0 1 6.7834463,21.508616" />
-    <animateTransform
-       attributeType="xml"
-       attributeName="transform"
-       type="rotate"
-       dur="1.2s"
-       values="0 12.700474 12.718936; 300 12.700474 12.718936; 300 12.700474 12.718936; 360 12.700474 12.718936; 360 12.700474 12.718936"
-       keySplines="0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9"
-       keyTimes="0.0;0.5;0.5;1.0;1.0"
-       calcMode="spline"
-       repeatCount="indefinite" />
-  </g>
-  <g
-     id="g13"
-     style="stroke:#ffffff;stroke-width:1.05833333;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="ellipse03"
-       sodipodi:type="arc"
-       sodipodi:cx="12.700474"
-       sodipodi:cy="12.718936"
-       sodipodi:rx="10.58137"
-       sodipodi:ry="10.60227"
-       sodipodi:start="4.118977"
-       sodipodi:end="4.3284165"
-       sodipodi:open="true"
-       d="M 6.7834463,3.9292559 A 10.58137,10.60227 0 0 1 8.7366222,2.8886825" />
-    <animateTransform
-       attributeType="xml"
-       attributeName="transform"
-       type="rotate"
-       dur="1.2s"
-       values="0 12.700474 12.718936; 60 12.700474 12.718936; 60 12.700474 12.718936; 360 12.700474 12.718936; 360 12.700474 12.718936"
-       keySplines="0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9;0.5 0.1 0.3 0.9"
-       keyTimes="0.0;0.5;0.5;1.0;1.0"
-       calcMode="spline"
-       repeatCount="indefinite" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="44px" viewBox="0 0 41 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>server</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-177.000000, -963.000000)">
+            <g id="server" transform="translate(172.000000, 959.000000)">
+                <g id="svg4874">
+                    <g id="layer1" transform="translate(0.432902, 0.249930)">
+                        <g id="g4845" transform="translate(24.740129, 25.750070) scale(-1, 1) rotate(-90.000000) translate(-24.740129, -25.750070) translate(-0.759871, 1.250070)">
+                            <g id="g4778" transform="translate(25.998557, 24.499995) scale(-1, 1) translate(-25.998557, -24.499995) translate(0.998557, -0.000005)">
+                                <g id="g4780" transform="translate(24.975369, 24.500000) scale(-1, 1) translate(-24.975369, -24.500000) translate(0.475369, -0.000000)">
+                                    <rect id="rect4782" transform="translate(24.729330, 24.420522) scale(-1, 1) translate(-24.729330, -24.420522) " x="0.486904828" y="0.182898119" width="48.4848505" height="48.4752475"></rect>
+                                    <path d="M5.53742524,44.6185518 L5.53742524,4.22251218" id="path4205" stroke="#E95420" stroke-width="2"></path>
+                                    <path d="M12.10308,24.4205269 L5.03237255,24.4205269" id="path4207" stroke="#E95420" stroke-width="2.00000024"></path>
+                                    <path d="M8.07016545,6.7407594 L8.07016545,7.75106001 L8.07016545,14.8231643 L10.0905545,14.8231643 L10.0905545,8.76037401 L46.4388231,8.76037401 L46.4388231,14.8231643 L48.4592121,14.8231643 L48.4592121,6.7407594 L8.07016545,6.7407594 Z M8.07016545,17.8540661 L8.07016545,25.936471 L10.0905545,25.936471 L10.0905545,17.8540661 L8.07016545,17.8540661 Z M46.4388231,17.8540661 L46.4388231,25.936471 L48.4592121,25.936471 L48.4592121,17.8540661 L46.4388231,17.8540661 Z M8.07016545,28.9673728 L8.07016545,42.1012807 L48.4592121,42.1012807 L48.4592121,28.9673728 L46.4388231,28.9673728 L46.4388231,40.081666 L10.0905545,40.081666 L10.0905545,28.9673728 L8.07016545,28.9673728 Z" id="rect4236" fill="#E95420" fill-rule="nonzero" transform="translate(28.264689, 24.421020) scale(-1, 1) rotate(-90.000000) translate(-28.264689, -24.421020) "></path>
+                                    <path d="M33.8202552,44.6185518 L33.8202552,4.22251218" id="path4238" stroke="#E95420" stroke-width="2"></path>
+                                    <path d="M22.7091564,44.6185518 L22.7091564,4.22251218" id="path4240" stroke="#E95420" stroke-width="2"></path>
+                                    <rect id="rect4242" fill="#E95420" fill-rule="nonzero" transform="translate(39.375801, 12.301724) scale(-1, 1) rotate(-90.000000) translate(-39.375801, -12.301724) " x="36.3466954" y="10.7862732" width="6.05821111" height="3.03090182"></rect>
+                                    <rect id="rect4244" fill="#E95420" fill-rule="nonzero" transform="translate(28.264682, 12.301724) scale(-1, 1) rotate(-90.000000) translate(-28.264682, -12.301724) " x="25.2355764" y="10.7862732" width="6.05821111" height="3.03090182"></rect>
+                                    <rect id="rect4246" fill="#E95420" fill-rule="nonzero" transform="translate(17.153558, 12.301724) scale(-1, 1) rotate(-90.000000) translate(-17.153558, -12.301724) " x="14.1244524" y="10.7862732" width="6.05821111" height="3.03090182"></rect>
+                                    <ellipse id="path4208" fill="#E95420" fill-rule="nonzero" transform="translate(5.537410, 24.420522) scale(-1, 1) rotate(-90.000000) translate(-5.537410, -24.420522) " cx="5.5374101" cy="24.4205219" rx="3.0291048" ry="3.03090203"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
